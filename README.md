@@ -19,3 +19,7 @@ Siga os passos abaixo para rodar o jogo localmente:
 1. **Clone este repositório:**
    ```bash
    git clone [https://github.com/jefferson-rtt/pedra_papel_tesoura.git](https://github.com/jefferson-rtt/pedra_papel_tesoura.git)
+
+## Demonstração do código
+
+<img src="code.png" width="500" alt="Demonstração do código">
