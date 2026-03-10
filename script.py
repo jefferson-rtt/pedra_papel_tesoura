@@ -36,7 +36,7 @@ print()
 
 print("-" * 50)
 
-#verificacao de vecendor
+#verificacao de vencendor
 
 if j1 == j2:
     print("Empate!")
