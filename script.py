@@ -40,9 +40,9 @@ print("-" * 50)
 
 if j1 == j2:
     print("Empate!")
-elif (j1 == "Pedra" and j2 == "Tesoura")or\
-    (j1 == "Tesoura" and j2 == "Papel")or\
-    (j1 == "Papel" and j2 == "Pedra"):
+elif (j1 == "pedra" and j2 == "tesoura")or\
+    (j1 == "tesoura" and j2 == "papel")or\
+    (j1 == "papel" and j2 == "pedra"):
     print("Jogador 1 VENCEU, Parabéns!")
 
 else:
